@@ -66,7 +66,7 @@
         <Key android:codes="8204" android:keyLabel=".|." android:popupCharacters="&#39;&#34;\u201c\u201e\u201d\u2018\u2019"/>
         <Key android:codes="32" android:keyWidth="30%p"/>
         <Key android:codes="1567" android:keyLabel="؟" android:popupCharacters="/@\u0026\u00bf\u00a1&#11822;&#8253;_-?"/>
-        <Key android:codes="46" android:keyLabel="." android:popupCharacters="!:-\u2014_\u00b7\u2026&#171;&#187;"/>
+        <Key android:codes="46" android:keyLabel="." android:popupCharacters="!:-\u2014_\u00b7\u2026&#171;&#187;&#1600"/>
         <Key android:codes="10" android:keyWidth="15%p" android:keyEdgeFlags="right"/>
     </Row>
 
